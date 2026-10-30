@@ -313,6 +313,7 @@ body::after {
 .board figcaption { padding-top: 20px; }
 .board h3 { font-size: 1.25rem; font-weight: 600; letter-spacing: -0.025em; }
 .board p { margin-top: 8px; color: var(--muted); font-size: 0.9375rem; line-height: 1.55; }
+.board-ctas { display: flex; flex-wrap: wrap; gap: 4px 24px; }
 .board-cta { margin-top: 14px; font-size: 0.9375rem; font-weight: 500; color: var(--accent); transition: opacity 0.2s; }
 .board-cta:hover { opacity: 0.75; }
 
